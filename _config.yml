@@ -21,13 +21,13 @@ repository               : "econhanmowang/econhanmowang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "证件照.jpg"
-  name             : "Hanmo WANG"
+  avatar           : "profile_image.png"
+  name             : "Hanmo WANG<br>王翰墨"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor in UIBE/"
+  bio              : "Assistant Professor in Economics"
   location         : "Beijing, CN"
   employer         : "University of International Business and Economics"
-  uri              : # URL
+  uri              : "http://site.uibe.edu.cn/actionszdw/ViewTeacher.aspx?NewsID=1049&TypeName=%e6%95%b0%e9%87%8f%e7%bb%8f%e6%b5%8e%e5%ad%a6%e7%b3%bb"
   email            : "hmwangecon@uibe.edu.cn" 
 
   # Academic websites
