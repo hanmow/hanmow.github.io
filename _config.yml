@@ -24,7 +24,7 @@ author:
   avatar           : "证件照.jpg"
   name             : "Hanmo WANG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor in UIBE/"
   location         : "Beijing, CN"
   employer         : "University of International Business and Economics"
   uri              : # URL
@@ -62,7 +62,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : # 
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
