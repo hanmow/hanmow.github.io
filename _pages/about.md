@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is WANG Hanmo(王翰墨). I am currently an assistant professor in University of International Business and Economics.
+Hello! This is WANG Hanmo(王翰墨). I am currently an assistant professor at School of International Trade and Economics, University of International Business and Economics. 
+
+My research interests encompass the fields of Econometrics, Applied Microeconomics Theory, and Machine learning applications in economcis. Recently, my research have been primarily lies in how to theoretically provide   
