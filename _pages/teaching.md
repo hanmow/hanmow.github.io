@@ -9,7 +9,7 @@ author_profile: true
 
 <br>
 
-# Teaching
+
 ## Bachelor <br>
 Econometrics, Instructor, UIBE, 2025<br>
 ## Master <br>
