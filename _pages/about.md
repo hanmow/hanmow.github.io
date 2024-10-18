@@ -13,9 +13,11 @@ Hello! This is WANG Hanmo(王翰墨). I am currently an assistant professor at S
 My research interests encompass the fields of econometrics, applied microeconomics theory, machine learning applications in economcis and digital economics. Recently, my research have been primarily aimed to provide a range of analytical solutions for strategic experimentation and algorithmic decision-making.
 
 # Education
-[2017 -- 2023] Ph.D. in Economcis, University of Hong Kong\
-[2016 -- 2017] M.Sc. in Economics, The Hong Kong University of Science and Technology\
-[2012 -- 2016] B.Sc.(Hons) in Computing Mathematics, City University of Hong Kong
+## [2017 -- 2023] Ph.D. in Economcis, University of Hong Kong
+## [2016 -- 2017] M.Sc. in Economics, The Hong Kong University of Science and Technology
+## [2012 -- 2016] B.Sc.(Hons) in Computing Mathematics, City University of Hong Kong
+
+
 
 # More About Me
 
