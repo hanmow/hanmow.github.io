@@ -16,6 +16,10 @@ redirect_from:
 
 <br>
 
+Professional Experience
+======
+* Assistant Professor, University of International Business and Economics, 2024 - present
+
 Education
 ======
 * Ph.D. in Economics, University of Hong Kong, 2023 
