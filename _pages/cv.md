@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
+<br>
+
+[Download PDF](https://econhanmowang.github.io/files/resume.pdf)
+======
+
+<br>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Economics, University of Hong Kong, 2023 
+* M.Sc. in Economics, The Hong Kong University of Science and Technology, 2017
+* B.Sc. in Computing Mathematics (with First Class Honours), City University of Hong Kong, 2016
 
-Work experience
+
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Econometrics, Applied Microeconomics Theory, Machine Learning applications in Economics, and Digital Economics
   
+Honors and Awards
+======
+* Postgraduate Scholarships, 2017-2021
+
+* Dean’s Honours List, 2012-2016
+
+
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Language**: Mandarin (native), English (proficient)
+* **Software**: Stata, MATLAB, R, Python
 
-Publications
+References
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+[Prof. Ye Luo](https://www.hkubs.hku.hk/people/ye-luo) <br>
+Associate Professor  <br> 
+Faculty of Business and Economics <br>
+University of Hong Kong <br>
+
+[Prof. Jin Li](https://www.hkubs.hku.hk/people/jin-li) <br>
+Zhang Yonghong Professor in Economics and Strategy <br> 
+Faculty of Business and Economics <br>
+University of Hong Kong <br>
+
+[Prof. Xiaowei Zhang](https://seng.hkust.edu.hk/about/people/faculty/xiaowei-zhang)
+Associate Professor <br>
+Department of Industrial Engineering and Decision Analytics <br>
+The Hong Kong University of Science and Technology <br>
+
+
+
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
