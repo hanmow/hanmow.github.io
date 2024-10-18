@@ -23,7 +23,7 @@ Professional Experience
 Education
 ======
 * Ph.D. in Economics, University of Hong Kong, 2023 
-* M.Sc. in Economics, The Hong Kong University of Science and Technology, 2017
+* M.Sc. in Economics, Hong Kong University of Science and Technology, 2017
 * B.Sc. in Computing Mathematics (with First Class Honours), City University of Hong Kong, 2016
 
 
