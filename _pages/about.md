@@ -20,7 +20,7 @@ redirect_from:
 
 # Education
  [2017 -- 2023] Ph.D. in Economcis, University of Hong Kong\
- [2016 -- 2017] M.Sc. in Economics, The Hong Kong University of Science and Technology\
+ [2016 -- 2017] M.Sc. in Economics, Hong Kong University of Science and Technology\
  [2012 -- 2016] B.Sc.(Hons) in Computing Mathematics, City University of Hong Kong
 
 
