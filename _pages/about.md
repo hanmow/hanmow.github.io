@@ -26,6 +26,10 @@ redirect_from:
 
 
 # More About Me
+An amateur gamer: Heartstone(monthly legend player), Dota2(12-year "old" rookie), Civilization VI(early-game warmonger)\
+
+I am a big fan of football, and my favorite team is Real Madrid. I also really enjoy Chinese crosstalk(相声) or classic music while working. I would describe myself as a very amateur saxophone player.
+
 
 
 
