@@ -57,7 +57,7 @@ Zhang Yonghong Professor in Economics and Strategy <br>
 Faculty of Business and Economics <br>
 University of Hong Kong <br>
 
-[Prof. Xiaowei Zhang](https://seng.hkust.edu.hk/about/people/faculty/xiaowei-zhang)
+[Prof. Xiaowei Zhang](https://seng.hkust.edu.hk/about/people/faculty/xiaowei-zhang)<br>
 Associate Professor <br>
 Department of Industrial Engineering and Decision Analytics <br>
 The Hong Kong University of Science and Technology <br>
