@@ -31,11 +31,6 @@ Research Interests
 ======
 * Econometrics, Applied Microeconomics Theory, Machine Learning applications in Economics, and Digital Economics
   
-Honors and Awards
-======
-* Postgraduate Scholarships, 2017-2021
-
-* Dean’s Honours List, 2012-2016
 
 
  
